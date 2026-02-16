@@ -1,17 +1,16 @@
 🕘️更新时间,#genre#
-2026-02-16 07:17:43,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+2026-02-16 19:40:32,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 
 📺央视频道,#genre#
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
-CETV-1,https://migu.188766.xyz/
 
 💰央视付费频道,#genre#
 文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 
 📡卫视频道,#genre#
+香港卫视,https://migu.188766.xyz/
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
@@ -89,6 +88,7 @@ CETV-1,https://migu.188766.xyz/
 ☘️福建频道,#genre#
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
@@ -117,10 +117,12 @@ CETV-1,https://migu.188766.xyz/
 ☘️新疆频道,#genre#
 
 ☘️山东频道,#genre#
+山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东教育,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 ☘️山西频道,#genre#
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 
@@ -157,20 +159,18 @@ CETV-1,https://migu.188766.xyz/
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
-靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
-靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🎬电影频道,#genre#
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 纬来电影,https://hls.iill.top/api/wldy/index.m3u8
+靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 天映经典,https://o11.163189.xyz/stream/live/ccm/
-东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🎥咪咕直播,#genre#
@@ -181,9 +181,9 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 
 🪁动画频道,#genre#
-七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
+中华小当家,https://live.ottiptv.cc/huya/11342413
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
